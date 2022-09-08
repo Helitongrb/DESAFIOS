@@ -1,0 +1,64 @@
+github.com/gustavoguanabara
+gustavoguanabara.github.io
+
+h1 = titulo
+p = paragrafo
+hr = linha no titulo
+
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Título da página</title>
+   </head>
+<body>
+
+</body>
+</html>
+
+
+<-- = anotações 
+
+psicologias das cores
+
+circulo cromatico RGB
+
+cores primaraias, secundarias e terciarias 
+
+Cores frias e cores quentes
+
+cores intercaladas
+
+cores anologas
+
+cores complementares
+
+cores triádicas
+
+monocromia
+
+RGB = monitor  CMYK = impressoras 
+
+/* weight (PESO) width (ALTURA) height (LARGURA)*/
+
+border = borda
+padding = acochoamento
+margin = margem
+outline = contorno 
+
+ box level = box que quebra linhas ex: div é uma box level
+ inline-level = box que teria um tamanho q se ajusta e continua na mesma linha
+ 
+ user agent é sempre o navegador
+
+ https://github.com/braga-git/cursoemvideo-projeto-android/blob/3d0b1e7d9bddb891c54ceb9f008e2eddb23f7ee3/index.html
+
+
+ CORES ANDROID
+PRINCIPAL: #3DDC84
+MARGEM :#83E1AD
+TITULOS :#1A5C37
+DEGRADE:#2FA866
